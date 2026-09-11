@@ -2,3 +2,4 @@
 *.bat text eol=crlf
 *.jar binary
 # B가 수정한 부분입니다.
+# A가 수정한 부분입니다.
